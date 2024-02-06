@@ -1,1 +1,1 @@
-add a friendly greeting message
+Adding a friendly greeting message
